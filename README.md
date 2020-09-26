@@ -1,17 +1,22 @@
-### Hola, I'm Jaideep Reddy 👋
+### Hola, I'm Jaideep Reddy 👋😍
 
-<!--
-**Jaideep07/Jaideep07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on how to contribute to opensource
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working to know how to contribute to opensource
+- 🌱 I’m currently learning ML algorithms
 - 💬 Ask me about Python, HTML, CSS, JAVAScript
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jaideep07)
+- 😄 Pronouns: He/Him
+
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://jaideep07.github.io/
+[twitter]: https://twitter.com/JaideepKotla
+[instagram]: https://www.instagram.com/kotlajaideepreddy/?hl=en
+[linkedin]: https://www.linkedin.com/in/jaideep-reddy-kotla-4639121a8/
+
+
