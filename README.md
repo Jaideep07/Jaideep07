@@ -1,4 +1,4 @@
-### Hola, I'm Jaideep Reddy 👋😍
+# Hola, I'm Jaideep Reddy 👋😍
 
 
 - 🔭 I’m currently working to know how to contribute to opensource
@@ -19,4 +19,4 @@
 [instagram]: https://www.instagram.com/kotlajaideepreddy/?hl=en
 [linkedin]: https://www.linkedin.com/in/jaideep-reddy-kotla-4639121a8/
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jaideep07)
