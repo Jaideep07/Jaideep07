@@ -27,3 +27,5 @@
 - [Power Quality Classification](https://github.com/aswarth123/Power_Quality_Classification)
 - [Pupae Classification](https://github.com/aswarth123/Pupae_Classification)
 - [Getting started with Federated Learning](https://github.com/Jaideep07/Federated-Learning-Intro)
+- [Constructing Company Management System](https://github.com/aswarth123/Java-project)
+- [Kubernetes Challenge](https://github.com/Jaideep07/DigitalOcean-Kubernetes-Challenge)
