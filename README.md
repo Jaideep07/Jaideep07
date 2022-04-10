@@ -1,7 +1,7 @@
 # Hola, I'm Jaideep Reddy 👋😍
 
 
-- 🔭 I’m currently exploring on how to contribute to opensource
+- 🔭 I’m currently exploring the field of AI & ML, Cloud Computing.
 - 🌱 I’m currently learning Deep Learning algorithms
 - 💬 Ask me about Python, HTML, CSS, JAVAScript
 - 😄 Pronouns: He/Him/His
